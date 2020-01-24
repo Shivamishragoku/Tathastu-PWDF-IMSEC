@@ -14,6 +14,7 @@ temp={1:"seol",2:"pokemon",3:"maruti"}
 print("keys in sorted order are:-")
 dictsortkey(temp)
 print("\nSum of values in dictionary:-")
+print(dictsum(temp))
 print("In reverse order:-")
 reverse(temp)
 
